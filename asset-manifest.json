@@ -1,14 +1,14 @@
 {
-  "main.css": "/Tinder-philo/static/css/main.f887536e.chunk.css",
-  "main.js": "/Tinder-philo/static/js/main.b491ee39.chunk.js",
-  "main.js.map": "/Tinder-philo/static/js/main.b491ee39.chunk.js.map",
-  "runtime~main.js": "/Tinder-philo/static/js/runtime~main.a065d68e.js",
-  "runtime~main.js.map": "/Tinder-philo/static/js/runtime~main.a065d68e.js.map",
-  "static/js/2.948d4d77.chunk.js": "/Tinder-philo/static/js/2.948d4d77.chunk.js",
-  "static/js/2.948d4d77.chunk.js.map": "/Tinder-philo/static/js/2.948d4d77.chunk.js.map",
-  "index.html": "/Tinder-philo/index.html",
-  "precache-manifest.bee5fbba2413783b58bcfa68666deb12.js": "/Tinder-philo/precache-manifest.bee5fbba2413783b58bcfa68666deb12.js",
-  "service-worker.js": "/Tinder-philo/service-worker.js",
-  "static/css/main.f887536e.chunk.css.map": "/Tinder-philo/static/css/main.f887536e.chunk.css.map",
-  "static/media/logo.svg": "/Tinder-philo/static/media/logo.5d5d9eef.svg"
+  "main.css": "/tinder-psycho/static/css/main.f887536e.chunk.css",
+  "main.js": "/tinder-psycho/static/js/main.9c6950c3.chunk.js",
+  "main.js.map": "/tinder-psycho/static/js/main.9c6950c3.chunk.js.map",
+  "runtime~main.js": "/tinder-psycho/static/js/runtime~main.c92077e0.js",
+  "runtime~main.js.map": "/tinder-psycho/static/js/runtime~main.c92077e0.js.map",
+  "static/js/2.948d4d77.chunk.js": "/tinder-psycho/static/js/2.948d4d77.chunk.js",
+  "static/js/2.948d4d77.chunk.js.map": "/tinder-psycho/static/js/2.948d4d77.chunk.js.map",
+  "index.html": "/tinder-psycho/index.html",
+  "precache-manifest.ba091847a0bf42fd876e59d10fe25d62.js": "/tinder-psycho/precache-manifest.ba091847a0bf42fd876e59d10fe25d62.js",
+  "service-worker.js": "/tinder-psycho/service-worker.js",
+  "static/css/main.f887536e.chunk.css.map": "/tinder-psycho/static/css/main.f887536e.chunk.css.map",
+  "static/media/logo.svg": "/tinder-psycho/static/media/logo.5d5d9eef.svg"
 }

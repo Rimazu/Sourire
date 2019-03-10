@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Tinder-philo/precache-manifest.bee5fbba2413783b58bcfa68666deb12.js"
+  "/tinder-psycho/precache-manifest.ba091847a0bf42fd876e59d10fe25d62.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/Tinder-philo/index.html", {
+workbox.routing.registerNavigationRoute("/tinder-psycho/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
