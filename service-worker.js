@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/tinder-psycho/precache-manifest.ba091847a0bf42fd876e59d10fe25d62.js"
+  "/tinder-psycho/precache-manifest.3a87eb298f4319eb565d58f373e46ba0.js"
 );
 
 workbox.clientsClaim();
